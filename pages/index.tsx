@@ -4,8 +4,7 @@ import Image from 'next/image';
 
 const XPage: React.FC = () => {
   const imageUrl =
-    'https://z-p3-scontent.fkhi5-2.fna.fbcdn.net/v/t45.1600-4/468082413_120213818401150156_8263082634953530440_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=890911&_nc_eui2=AeFVa95InBZ78Z_0uWYk9-pFZXmbuPDtskBleZu48O2yQHVo75jQkYGva8T_na8FrQVROBrQORbJJsk3oDfewefU&_nc_ohc=DE2bca-1swIQ7kNvgHzAm-z&_nc_zt=1&_nc_ht=z-p3-scontent.fkhi5-2.fna&_nc_gid=AO7ix75MN6Ax8yvf_YfduY7&oh=00_AYBvU1tpsTOp9R7pt-wRwF80ts_PBjnbxUzkfS0GaVqMjg&oe=674DF7A9';
-
+    'https://m.bolpurcollege.in/88888.webp';
   return (
     <div>
       <Head>
